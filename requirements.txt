@@ -1,0 +1,24 @@
+# Data Manipulation & Mathematical Computing
+numpy
+pandas
+scipy
+
+# Machine Learning & Optimization
+scikit-learn
+scikit-learn-intelex
+dpnp
+dpctl
+tbb4py
+
+# Experiment Tracking
+mlflow
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+ipykernel
+libuv
+statsmodels
